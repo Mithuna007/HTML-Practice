@@ -1,0 +1,18 @@
+body {
+    margin:10px;
+}
+
+.tweet {
+      border: 3px solid black;
+      overflow:;
+}
+.avatar {
+    width:10rem;
+    height: 10rem;
+    background-color:red;
+    float: left;
+    margin:2px;
+}
+.clear {
+    clear:both;
+}

@@ -1,0 +1,18 @@
+ body {
+    margin:10px;
+ }
+
+.containers {
+    border: 3px solid silver;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:center ;
+}
+
+.box {
+       width: 5rem;
+       height: 5rem;
+       background: hotpink;
+       margin:1rem;
+       padding: 2px;
+}
